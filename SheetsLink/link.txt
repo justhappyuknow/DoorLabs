@@ -1,0 +1,5 @@
+https://docs.google.com/spreadsheets/d/1h58Tmsqy28Or1ya_yEjlU_XFbKA5_y7H_iHT5AX-ZgA/edit?usp=sharing
+
+The output for the scraped data is there, as I exhausted my limit of OpenAI token, it was possible for only the above two companies, but I have linked the whole google sheets and the given program works for al the companies once we increase the limit of tokens.
+
+
